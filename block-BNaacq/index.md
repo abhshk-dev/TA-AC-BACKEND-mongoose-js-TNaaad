@@ -2,7 +2,7 @@ writeCode
 
 Design schemas for a blog application which will have
 
-- articles
+- articles 
 - comments(on each article) -> may be multiple
 - user
 
