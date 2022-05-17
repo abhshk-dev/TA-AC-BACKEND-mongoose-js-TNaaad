@@ -2,7 +2,7 @@ writeCode
 
 #### Perform users CRUD operation using mongoose from an express application
 
-- create an express application named sample
+- create  an express application named sample
 - connect to mongodb database using mongoose.connect() in `app.js`
 - create a user schema in models directory
   - name
