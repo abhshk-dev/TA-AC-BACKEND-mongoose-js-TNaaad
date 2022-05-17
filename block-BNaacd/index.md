@@ -1,6 +1,6 @@
 writeCode
 
-Q.create a user schema with following fields and type
+Q.create a  user schema with following fields and type
 1.name -> string
 2.email -> string
 3.age -> number
